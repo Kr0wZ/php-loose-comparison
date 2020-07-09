@@ -1,4 +1,4 @@
-//This code comes from my article : https://kr0wz.github.io/fr/2020/07/0/php-type-juggling.html
+//This code comes from my article : https://kr0wz.github.io/fr/2020/07/09/php-type-juggling.html
 
 <?php
 
